@@ -1,0 +1,35 @@
+body {
+  font-family: Nunito, 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width:40%;
+  margin: 0 auto;
+  background-color: whitesmoke;
+ 
+}
+
+table {
+  width: 99%;
+  border-collapse: collapse;
+  background-color: white;
+  border-spacing: 1px;
+  border-radius: 8px;
+}
+
+tr {
+  border: 1px solid black;
+}
+
+td,
+th {
+  text-align: center;
+
+  border: 1px solid black;
+}
+
+a {
+  text-decoration: none;
+  color: DarkBlue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
